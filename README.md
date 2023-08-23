@@ -39,4 +39,4 @@ The Python app integrates the trained model, offering a user-friendly interface 
 Based on the metrics observed, future improvements could focus on refining the data augmentation strategies, exploring different loss functions, and optimizing hyperparameters. Continuous model evaluation and potential integration of additional datasets might contribute to higher performance and robustness.
 
 ## License
-This project is licensed under the Creative Commons Legal Code - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the CC0 1.0 Universal - see the [LICENSE.md](LICENSE.md) file for details.
